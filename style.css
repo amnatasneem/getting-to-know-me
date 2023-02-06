@@ -1,0 +1,130 @@
+#gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pua {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+}
+
+body {
+    background-color: lightblue;
+    padding: 30px;
+}
+
+#content {
+    background-color: lightsalmon;
+    width: 200px;
+    font-size: larger;
+    list-style: square;
+    text-align: center;
+    border-style: dotted;
+    border-color: papayawhip;
+    border-width: thick;
+}
+
+#intro {
+    background-color: lightsalmon;
+    width: 200px;
+    font-size: xx-large;
+    list-style: square;
+    text-align: center;
+    border-style: dotted;
+    border-color: papayawhip;
+    border-width: thick;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#intropara {
+    text-indent: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#profilepic {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 400px;
+}
+
+div.top {
+    width: 45%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+    font-size: larger;
+}
+
+html {
+    border: solid;
+    border-width: 10px;
+    border-color: lightsalmon;
+}
+
+#soul {
+    float: left;
+    width: 300px;
+    height: 200px;
+    margin-left: 300px;
+
+}
+
+#hamster {
+    float: right;
+    width: 300px;
+    height: 200px;
+    margin-right: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    background-color: chartreuse;
+    padding: 15px;
+    text-align: center;
+}
+
+#familyTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: wheat;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+#vid {
+    border: 0;
+}
